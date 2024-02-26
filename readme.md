@@ -1,2 +1,2 @@
-# mixamo_rig_blender_4
+# mixamo rig for blender 4
  fix for mixamo rig to work with blender4 + 
